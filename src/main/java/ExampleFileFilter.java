@@ -1,4 +1,3 @@
-package src.main.java;
 /*
  * Copyright (c) 2003 Sun Microsystems, Inc. All  Rights Reserved.
  * 
